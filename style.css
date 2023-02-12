@@ -135,7 +135,7 @@ nav.sticky i:hover{
 }
 
 .home{
-    background: url(images/background.png) no-repeat;
+    background: url(Images/background.png) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
